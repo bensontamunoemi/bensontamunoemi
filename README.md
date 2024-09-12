@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Building and integrating AI capabilities into platforms and leading data analysis projects to improve sales and customer engagement.<br><br>I’m looking to collaborate on Projects involving full-stack development, mobile developement, AI-driven platforms, and user-centric enhancements, as well as UI/UX improvements.<br><br>I’m looking for help with Expanding my expertise in AI integrations and exploring new trends in data-driven marketing strategies.<br><br>I’m currently learning Advanced project management techniques and continually enhancing my AI skills.<br><br>Ask me about: Full-stack development, integrating AI in web and mobile platforms, data analysis for business growth, and building scalable systems with technologies like Node.js, React, and python.<br><br>Fun fact: Besides being a software developer, I also DJ, produce music, and rap in my free time.
+I’m currently working on Building and integrating AI capabilities into platforms and leading data analysis projects to improve sales and customer engagement.<br><br>I’m looking to collaborate on Projects involving full-stack development, mobile development, AI-driven platforms, and user-centric enhancements, as well as UI/UX improvements.<br><br>I’m looking for help with Expanding my expertise in AI integrations and exploring new trends in data-driven marketing strategies.<br><br>I’m currently learning Advanced project management techniques and continually enhancing my AI and development skills.<br><br>Ask me about Full-stack development, Mobile apps developement, integrating AI in web platforms, data analysis for business growth, and building scalable systems.<br><br>Fun fact, Besides being a software developer, I also DJ, produce music, in my free time.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ I’m currently working on Building and integrating AI capabilities into platfor
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bensontamunoemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bensontamunoemi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bensontamunoemi&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
